@@ -2,7 +2,7 @@
     {
         "Image": "./assets/images/workfooddelivery.png",
         "Title": "Food Delivery",
-        "Description": "A site that combines the best flavors of two cuisines: burgers, sushi and wok dishes. A large selection of food. A convenient shopping cart on our website will allow you to add selected products and customize your order to the smallest detail. You can choose a delivery method, specify your address and choose a convenient delivery time ",
+        "Description": "A large selection of food. Convenient shopping cart. You can choose a delivery method, specify your address and choose a convenient delivery time",
         "Sidenote": "https://kocwoc.netlify.app/#/",
         "Github": "https://github.com/AlexVRBK/food-delivery",
         "Tags": ["VueJS", "Vuex", "SCSS"]
@@ -10,7 +10,7 @@
     {
         "Image": "./assets/images/workbizcard.png",
         "Title": "BizCard - Business Card Generator",
-        "Description": "BizCard helps you create interactive and responsive digital business cards that can be hosted with your website. One of the key elements of our cards is the QR code. Thanks to our service, you will be able to generate a QR code that will contain important information about you or your company ",
+        "Description": "BizCard helps you create interactive and responsive digital business cards. One of the key elements of our cards is the QR code. You will be able to create a QR code that will contain important information about you or your company",
         "Sidenote": "",
         "Github": "https://github.com/AlexVRBK/qrcode-generator",
         "Tags": ["Nuxt", "Vuetify", "SCSS", "Firebase"]
@@ -18,7 +18,7 @@
     {
         "Image": "./assets/images/workfashionstore.png",
         "Title": "E-commerce Fashion store",
-        "Description": "Convenient navigation that allows you to quickly find the products you need. On the main page of the store, you will see separate categories for men and women, where you can view the entire range. When you find a product you like, you can add it to your cart. Your cart stores all the items you've selected, allowing you to view them, edit the quantity, or delete items you don't need.",
+        "Description": "Convenient navigation that allows you to quickly find the products you need. Your cart stores all the items you've selected, allowing you to view them, edit the quantity or remove items you don't need, and checkout",
         "Sidenote": "https://ecommerce-fashion-store.netlify.app/",
         "Github": "https://github.com/AlexVRBK/fashion-store",
         "Tags": ["Vue 3", "SCSS"]
@@ -26,7 +26,7 @@
     {
         "Image": "./assets/images/workezyro.png",
         "Title": "E-commerce Website",
-        "Description": "The main functionality of our site is the ability to quickly and conveniently search for goods by category. When you find a product that interests you, you can add it to your cart. Our convenient Add to Cart button allows you to quickly select the desired quantity and add it to your cart. To place an order, you need authorization or registration with Firebase. This allows us to ensure the safety and security of your personal information.",
+        "Description": "The Add to cart button allows you to quickly select the desired quantity and add it to the cart. To place an order, you need to be authorized or registered with Firebase. This allows us to ensure the safety and security of your personal information.",
         "Sidenote": "https://e-commerce-zyro.netlify.app/home",
         "Github": "https://github.com/AlexVRBK/e-commerce",
         "Tags": ["Vue 3", "Bootstrap", "Firebase"]
@@ -42,7 +42,7 @@
     {
         "Image": "./assets/images/workawion.png",
         "Title": "E-commerce Website",
-        "Description": "An e-commerce site specialized in the sale of furniture. You can quickly and easily view different categories of furniture. Each furniture product has its own detailed page with photos, description and technical specifications. Adding products to the cart is an easy and convenient process. Just select the desired furniture model and click the Add to cart button. Your cart will always show the number of selected products and their total cost. Checkout is a simple process. You can review the contents of your cart, make changes if necessary, and proceed to checkout",
+        "Description": "An e-commerce site specializing in the sale of furniture. Each furniture product has its own detailed page with photos, description and technical characteristics. The cart will always display the number of selected products and their total cost. You can view the contents of your cart, make changes if necessary, and proceed to checkoutt",
         "Sidenote": "",
         "Github": "https://github.com/AlexVRBK/ecommerce-shop",
         "Tags": ["Vue JS", "Vite", "SCSS", "Pinia"]
@@ -76,7 +76,7 @@
         "Title": "Alex VRBK portfolio",
         "Description": "Built a Vuejs web-app that showcases my portfolio, skills, experiences and a quick and easy way to reach out to me. My portfolio is an embodiment of my creativity and my skills as a frontend developer.",
         "Sidenote": "https://alex-vrbk.netlify.app/",
-        "Github": "https://github.com/AlexVRBK/alex-portfolio",
+        "Github": "https://github.com/AlexVRBK/alexvrbk-portfolio",
         "Tags": ["Vue JS", "Typescript", "Three.js", "Tailwind CSS"]
     },
     {
