@@ -1,0 +1,122 @@
+[
+    {
+        "Image": "./assets/images/workfooddelivery.png",
+        "Title": "Food Delivery",
+        "Description": "A site that combines the best flavors of two cuisines: burgers, sushi and wok dishes. A large selection of food. A convenient shopping cart on our website will allow you to add selected products and customize your order to the smallest detail. You can choose a delivery method, specify your address and choose a convenient delivery time ",
+        "Sidenote": "https://kocwoc.netlify.app/#/",
+        "Github": "https://github.com/AlexVRBK/food-delivery",
+        "Tags": ["VueJS", "Vuex", "SCSS"]
+    },
+    {
+        "Image": "./assets/images/workbizcard.png",
+        "Title": "BizCard - Business Card Generator",
+        "Description": "BizCard helps you create interactive and responsive digital business cards that can be hosted with your website. One of the key elements of our cards is the QR code. Thanks to our service, you will be able to generate a QR code that will contain important information about you or your company ",
+        "Sidenote": "",
+        "Github": "https://github.com/AlexVRBK/qrcode-generator",
+        "Tags": ["Nuxt", "Vuetify", "SCSS", "Firebase"]
+    },
+    {
+        "Image": "./assets/images/workfashionstore.png",
+        "Title": "E-commerce Fashion store",
+        "Description": "Convenient navigation that allows you to quickly find the products you need. On the main page of the store, you will see separate categories for men and women, where you can view the entire range. When you find a product you like, you can add it to your cart. Your cart stores all the items you've selected, allowing you to view them, edit the quantity, or delete items you don't need.",
+        "Sidenote": "https://ecommerce-fashion-store.netlify.app/",
+        "Github": "https://github.com/AlexVRBK/fashion-store",
+        "Tags": ["Vue 3", "SCSS"]
+    },
+    {
+        "Image": "./assets/images/workezyro.png",
+        "Title": "E-commerce Website",
+        "Description": "The main functionality of our site is the ability to quickly and conveniently search for goods by category. When you find a product that interests you, you can add it to your cart. Our convenient Add to Cart button allows you to quickly select the desired quantity and add it to your cart. To place an order, you need authorization or registration with Firebase. This allows us to ensure the safety and security of your personal information.",
+        "Sidenote": "https://e-commerce-zyro.netlify.app/home",
+        "Github": "https://github.com/AlexVRBK/e-commerce",
+        "Tags": ["Vue 3", "Bootstrap", "Firebase"]
+    },
+    {
+        "Image": "./assets/images/workmodulehouse.png",
+        "Title": "Module House",
+        "Description": "The site provides detailed information cards for each modular home. You can view floor plans, renderings, and photos to get an idea of what the home will look like. In addition, you can familiarize yourself with the technical characteristics",
+        "Sidenote": "https://module-house.netlify.app/",
+        "Github": "https://github.com/AlexVRBK/module-house",
+        "Tags": ["Nuxt", "Tailwind"]
+    },
+    {
+        "Image": "./assets/images/workawion.png",
+        "Title": "E-commerce Website",
+        "Description": "An e-commerce site specialized in the sale of furniture. You can quickly and easily view different categories of furniture. Each furniture product has its own detailed page with photos, description and technical specifications. Adding products to the cart is an easy and convenient process. Just select the desired furniture model and click the Add to cart button. Your cart will always show the number of selected products and their total cost. Checkout is a simple process. You can review the contents of your cart, make changes if necessary, and proceed to checkout",
+        "Sidenote": "",
+        "Github": "https://github.com/AlexVRBK/ecommerce-shop",
+        "Tags": ["Vue JS", "Vite", "SCSS", "Pinia"]
+    },
+    {
+        "Image": "./assets/images/workrealhome.png",
+        "Title": "E-commerce Website  Real Home",
+        "Description": "A site where you can find and buy your dream apartment. We offer a wide selection of real estate in various cities around the world. On our website, you can quickly and conveniently view various apartment options. In addition, the site provides detailed information about the location and infrastructure around each apartment. The site also provides an opportunity to contact the team of sales agents",
+        "Sidenote": "",
+        "Github": "https://github.com/AlexVRBK/real-home",
+        "Tags": ["Vue 3", "SCSS"]
+    },
+    {
+        "Image": "./assets/images/worksmmcourses.png",
+        "Title": "SMM courses",
+        "Description": "Landing to display information about the course and speakers. It is also possible to register for the course and apply for participation",
+        "Sidenote": "https://smm-courses.netlify.app/",
+        "Github": "https://github.com/AlexVRBK/smm-courses",
+        "Tags": ["Vue JS", "Vite", "Typescript", "Tailwind CSS"]
+    },
+    {
+        "Image": "./assets/images/workrentcar.png",
+        "Title": "Rent Car",
+        "Description": "Car rental site. Animation on the main page and display of available cars for rent. Car selection and map display are also available at the company's office.",
+        "Sidenote": "https://seven-cars.netlify.app/",
+        "Github": "https://github.com/AlexVRBK/rent-car",
+        "Tags": ["Vue JS", "Bootstrap"]
+    },
+    {
+        "Image": "./assets/images/workalexportfolio.png",
+        "Title": "Alex VRBK portfolio",
+        "Description": "Built a Vuejs web-app that showcases my portfolio, skills, experiences and a quick and easy way to reach out to me. My portfolio is an embodiment of my creativity and my skills as a frontend developer.",
+        "Sidenote": "https://alex-vrbk.netlify.app/",
+        "Github": "https://github.com/AlexVRBK/alex-portfolio",
+        "Tags": ["Vue JS", "Typescript", "Three.js", "Tailwind CSS"]
+    },
+    {
+        "Image": "./assets/images/workzarina.png",
+        "Title": "E-commerce Website",
+        "Description": "Online clothing store. The function of viewing the product in the catalog, sorting the products and adding them to the basket and calculating. ",
+        "Sidenote": "",
+        "Github": "https://github.com/AlexVRBK/store_zarina",
+        "Tags": ["Vue JS", "Bootstrap", "SCSS"]
+    },
+    {
+        "Image": "./assets/images/workmovie.png",
+        "Title": "Must Movie",
+        "Description": "A movie search platform showing movie rating, rating, posters and description and various additional information",
+        "Sidenote": "https://alexvrbk.github.io/must_movie/",
+        "Github": "https://github.com/AlexVRBK/must_movie",
+        "Tags": ["Vue JS", "Bulma", "Vuex"]
+    },
+    {
+        "Image": "./assets/images/workdruzi.png",
+        "Title": "Druzi",
+        "Description": "DRUZI marketing hub is the one-stop marketing agency for all marketing tasks. ",
+        "Sidenote": "https://alexvrbk.github.io/Druzi/",
+        "Github": "https://github.com/AlexVRBK/Druzi",
+        "Tags": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+        "Image": "./assets/images/worklviv.png",
+        "Title": "Lviv Travel",
+        "Description": "A platform for tourists looking for a quick solution for tourism. Placed points of interest and events poster. Development of the interface part.",
+        "Sidenote": "https://alexvrbk.github.io/lviv_travel/",
+        "Github": "https://github.com/AlexVRBK/lviv_travel",
+        "Tags": ["JavaScript", "HTML5", "CSS3"]
+    },
+    {
+        "Image": "./assets/images/worknft.png",
+        "Title": "Marketplace NFT",
+        "Description": "NFT Marketplace is a platform for selling digital art and collectibles.",
+        "Sidenote": "https://alexvrbk.github.io/marketplace_nft/",
+        "Github": "https://github.com/AlexVRBK/marketplace_nft",
+        "Tags": ["JavaScript", "HTML5", "CSS3"]
+    }
+]

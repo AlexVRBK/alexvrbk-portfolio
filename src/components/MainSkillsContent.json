@@ -1,0 +1,69 @@
+[
+    {
+        "type": "frontend",
+        "technologies": [
+            {
+                "title": "Vue",
+                "image": "devicon-vuejs-plain"
+            },
+            {
+                "title": "Nuxt",
+                "image": "devicon-nuxtjs-plain"
+            },
+            {
+                "title": "Javascript (ES6)",
+                "image": "devicon-javascript-plain"
+            },
+            {
+                "title": "HTML5",
+                "image": "devicon-html5-plain"
+            },
+            {
+                "title": "CSS3",
+                "image": "devicon-css3-plain"
+            },
+            {
+                "title": "Bootstrap",
+                "image": "devicon-bootstrap-plain"
+            },
+            {
+                "title": "Vuetify",
+                "image": "devicon-vuetify-plain"
+            },
+            {
+                "title": "Tailwind",
+                "image": "devicon-tailwindcss-plain"
+            }
+        ]
+    },
+    {
+        "type": "backend",
+        "technologies": [
+            {
+                "title": "Node",
+                "image": "devicon-nodejs-plain"
+            },
+            {
+                "title": "MongoDB",
+                "image": "devicon-mongodb-plain"
+            },
+            {
+                "title": "Express",
+                "image": "devicon-express-original"
+            }
+        ]
+    },
+    {
+        "type": "tools",
+        "technologies": [
+            {
+                "title": "Git",
+                "image": "devicon-git-plain"
+            },
+            {
+                "title": "Figma",
+                "image": "devicon-figma-plain"
+            }
+        ]
+    }
+]
