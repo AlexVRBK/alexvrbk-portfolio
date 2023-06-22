@@ -11,7 +11,7 @@
         "Image": "./assets/images/workbizcard.png",
         "Title": "BizCard - Business Card Generator",
         "Description": "BizCard helps you create interactive and responsive digital business cards. One of the key elements of our cards is the QR code. You will be able to create a QR code that will contain important information about you or your company",
-        "Sidenote": "",
+        "Sidenote": "https://github.com/AlexVRBK/qrcode-generator",
         "Github": "https://github.com/AlexVRBK/qrcode-generator",
         "Tags": ["Nuxt", "Vuetify", "SCSS", "Firebase"]
     },
@@ -27,7 +27,7 @@
         "Image": "./assets/images/workezyro.png",
         "Title": "E-commerce Website",
         "Description": "The Add to cart button allows you to quickly select the desired quantity and add it to the cart. To place an order, you need to be authorized or registered with Firebase. This allows us to ensure the safety and security of your personal information.",
-        "Sidenote": "https://e-commerce-zyro.netlify.app/home",
+        "Sidenote": "https://e-commerce-zyro.netlify.app/",
         "Github": "https://github.com/AlexVRBK/e-commerce",
         "Tags": ["Vue 3", "Bootstrap", "Firebase"]
     },
@@ -43,7 +43,7 @@
         "Image": "./assets/images/workawion.png",
         "Title": "E-commerce Website",
         "Description": "An e-commerce site specializing in the sale of furniture. Each furniture product has its own detailed page with photos, description and technical characteristics. The cart will always display the number of selected products and their total cost. You can view the contents of your cart, make changes if necessary, and proceed to checkoutt",
-        "Sidenote": "",
+        "Sidenote": "https://github.com/AlexVRBK/ecommerce-shop",
         "Github": "https://github.com/AlexVRBK/ecommerce-shop",
         "Tags": ["Vue JS", "Vite", "SCSS", "Pinia"]
     },
@@ -51,7 +51,7 @@
         "Image": "./assets/images/workrealhome.png",
         "Title": "E-commerce Website  Real Home",
         "Description": "A site where you can find and buy your dream apartment. We offer a wide selection of real estate in various cities around the world. On our website, you can quickly and conveniently view various apartment options. In addition, the site provides detailed information about the location and infrastructure around each apartment. The site also provides an opportunity to contact the team of sales agents",
-        "Sidenote": "",
+        "Sidenote": "https://github.com/AlexVRBK/real-home",
         "Github": "https://github.com/AlexVRBK/real-home",
         "Tags": ["Vue 3", "SCSS"]
     },
@@ -83,7 +83,7 @@
         "Image": "./assets/images/workzarina.png",
         "Title": "E-commerce Website",
         "Description": "Online clothing store. The function of viewing the product in the catalog, sorting the products and adding them to the basket and calculating. ",
-        "Sidenote": "",
+        "Sidenote": "https://github.com/AlexVRBK/store_zarina",
         "Github": "https://github.com/AlexVRBK/store_zarina",
         "Tags": ["Vue JS", "Bootstrap", "SCSS"]
     },
